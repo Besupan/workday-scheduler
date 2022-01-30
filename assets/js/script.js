@@ -1,3 +1,9 @@
+var pineapple = shizzz
+
+
+
+
+
 /*
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
@@ -17,3 +23,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 */
+
+//create editable time blocks 9-5
+//make the time blocks correspond to the current day
+//past hours grey, current red, future green
+//make the blocks save to local storage
